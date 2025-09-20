@@ -1,0 +1,1 @@
+worker: python -u k2_notion_general_manager.py
